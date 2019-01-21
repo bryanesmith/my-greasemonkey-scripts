@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         TTMIK Download Everything
+// @name         TTMIK download everything from downloads page
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  Download everything with a reasonable name
-// @author       You
+// @author       Bryan Smith
 // @match        https://www.talktomeinkorean.com/mypage/downloads
 // @grant        GM_download
 // ==/UserScript==
